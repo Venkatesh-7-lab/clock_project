@@ -1,0 +1,21 @@
+.main-heading {
+    font-family: "Roboto";
+    padding:10px;
+    color: black;
+} 
+.container {
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.clock-container {
+    background-color: lightblue;
+    width:20vw;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center;
+    border-radius: 25px;
+}
